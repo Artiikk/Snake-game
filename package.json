@@ -1,0 +1,7 @@
+{
+  "name": "snake_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Artur Shestopalov <artiikk2@gmail.com>",
+  "license": "MIT"
+}
