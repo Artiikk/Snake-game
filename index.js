@@ -122,7 +122,7 @@ function draw() {
 
   canvasContext.font = DEFAULT_FONT
   canvasContext.fillStyle = colorMap.green
-  canvasContext.fillText('Score: ' + (snake.tail.length - 1), canvas.width - 80, 20)
+  canvasContext.fillText('Score: ' + (snake.tail.length - 1), canvas.width - 100, 20)
   drawRect(apple.x, apple.y, apple.size, apple.size, apple.color)
 }
 
